@@ -1,4 +1,3 @@
-This a chat application using django in backend and react in frontend.
+I was able to successfully implement chat in django using channels
+Thanks to : https://youtu.be/mhADNEyMBis?si=YLPiSN3CWbfL2hei
 
-By using this documentation I learned to connect react with django application.
-https://medium.com/@devsumitg/how-to-connect-reactjs-django-framework-c5ba268cb8be
